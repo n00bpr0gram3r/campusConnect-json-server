@@ -1,5 +1,99 @@
 {
   "users": [
-    
+    {
+      "id": "abdul",
+      "name": "Abdul Basit",
+      "password": "mynameisabdul",
+      "email": "abdul@mail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "mabdul",
+      "name": "abdul",
+      "password": "Mynameisabdul",
+      "email": "abdul@mail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "iamadmin",
+      "email": "admin@mail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "roshan",
+      "name": "Roshan",
+      "password": "iamroshan",
+      "email": "roshan@mail.com",
+      "gender": "male",
+      "role": "student",
+      "isActive": true
+    },
+    {
+      "id": "saquib",
+      "name": "saquib",
+      "password": "iamsaquib",
+      "email": "saquib@mail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "sharma",
+      "name": "sharma",
+      "password": "iamsharma",
+      "email": "sharma@mail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "rohan",
+      "name": "rohan",
+      "password": "iamrohan",
+      "email": "rohan@mail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "sarwar",
+      "name": "sarwar",
+      "password": "iamsarwar",
+      "email": "sarwar@mail.com",
+      "gender": "male",
+      "role": "student",
+      "isActive": true
+    },
+    {
+      "id": "bakz",
+      "name": "Kanij",
+      "password": "iamkanij",
+      "email": "kanij@mail.com",
+      "gender": "female",
+      "role": "admin",
+      "isActive": true
+    }
+  ],
+  "role": [
+    {
+      "usercode": "admin",
+      "name": "Admin"
+    },
+    {
+      "usercode": "student",
+      "name": "Student"
+    },
+    {
+      "usercode": "teacher",
+      "name": "Teacher"
+    }
   ]
 }
